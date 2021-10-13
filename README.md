@@ -2,7 +2,7 @@
 
 ## Questions 1 - 5 are worth 10 points eachwhile question 6 is worth 50 points
 
-#ShopLifters is a Class NOT Abstract
+## ShopLifters is a Class NOT Abstract
 
 Question 1 
 - Write a method that returns the remainder of the following equation:  118 ÷ 31
