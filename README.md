@@ -14,7 +14,7 @@ Question 2
 Question 3 
 - Use a for loop to print each value in this array [4,5,6]  except the last element in the array.
 - Use while loop to square every element in the same array [4,5,6] 
--  Write a test case for question B
+-  Write a test case for question the second bullet point
 
 Question 4 
 - Create an ArrayList with the names of all the students in the class then use a loop to print out all their names. 
